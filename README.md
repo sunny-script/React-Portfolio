@@ -60,4 +60,4 @@ This is a single-page application portfolio built using React to showcase my ski
 2. Install dependencies
 
 ### Deployed Link
-- Click here '[placeholder]'
+- Click here '[[Click here](https://parkermikesellportfolio.netlify.app/)]'
